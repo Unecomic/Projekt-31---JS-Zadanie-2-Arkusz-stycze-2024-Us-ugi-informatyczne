@@ -33,7 +33,7 @@ section{
 }
 main{
 
-    background-color: navy;
+    color: navy;
     margin: 50px;
     height: 400px;
 }
@@ -69,4 +69,5 @@ header{
 table{
 
     display: flex;
+
 }
